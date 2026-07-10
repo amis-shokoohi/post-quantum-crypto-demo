@@ -1,6 +1,13 @@
 # Post-Quantum Cryptography Secure Chat Demo
 This project is a simple demonstration of building an end-to-end encrypted chat session between two parties over TCP using **ML-KEM-768** for key establishment and **AES-256-GCM** for encryption.
 
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/46dacab2-340a-49ad-8bb5-bd7a3dce64fd"
+    alt="Usage demo"
+  >
+</div>
+
 The handshake works as follows:
 
 1. Bob generates an ML-KEM-768 key pair.
@@ -13,7 +20,7 @@ The handshake works as follows:
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/621e868c-aa30-4797-8e3c-aceaa0442254"
-    alt=""
+    alt="Handshake"
   >
 </div>
 
