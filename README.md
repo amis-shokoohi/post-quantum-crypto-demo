@@ -21,6 +21,7 @@ The handshake works as follows:
   <img
     src="https://github.com/user-attachments/assets/621e868c-aa30-4797-8e3c-aceaa0442254"
     alt="Handshake"
+    width="550"
   >
 </div>
 
